@@ -12,7 +12,7 @@ https://blog.prototypr.io/css-only-multi-color-backgrounds-4d96a5569a20
 
 You can check out the extension here: [Simple Clock](https://chrome.google.com/webstore/detail/simple-clock/fngkigemfllijjloedplghepagidclef)
 
-## LOGO
-Exclusively made for this extension
+## Logo
+Exclusively made for this extension. Used Illustrator to make the logo
 
 ![alt text](https://github.com/Raja-Krishna/Simple-Clock/blob/master/icons/clock128.png)
