@@ -14,4 +14,5 @@ You can check out the extension here: [Simple Clock](https://chrome.google.com/w
 
 ## LOGO
 Exclusively made for this extension
+
 ![alt text](https://github.com/Raja-Krishna/Simple-Clock/blob/master/icons/clock128.png)
