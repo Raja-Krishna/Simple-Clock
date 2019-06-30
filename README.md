@@ -1,6 +1,4 @@
 # Simple Clock
-![alt text](https://github.com/Raja-Krishna/Simple-Clock/blob/master/icons/clock128.png)
-
 ![alt text](https://github.com/Raja-Krishna/Simple-Clock/blob/master/icons/sample.png)
 
 ## Description
@@ -13,3 +11,7 @@ https://blog.prototypr.io/css-only-multi-color-backgrounds-4d96a5569a20
 ## Chome Extension Link
 
 You can check out the extension here: [Simple Clock](https://chrome.google.com/webstore/detail/simple-clock/fngkigemfllijjloedplghepagidclef)
+
+## LOGO
+Exclusively made for this extension
+![alt text](https://github.com/Raja-Krishna/Simple-Clock/blob/master/icons/clock128.png)
